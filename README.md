@@ -1,6 +1,6 @@
 # CSE020 - Introduction to Computing I
 
-This repository contains lab assignments and a projects designed to present the basics of programming such as input and output, variables and binary representation, conditional statements, loops, and arrays. Written in Java, the lab assignments and projects correspond with the following tasks:
+This repository contains lab assignments and projects designed to present the basics of programming such as input and output, variables and binary representation, conditional statements, loops, and arrays. Written in Java, the lab assignments and projects correspond with the following tasks:
 
 1. lab_01 - Basic output
 2. lab_02 - Importing a file
